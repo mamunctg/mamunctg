@@ -7,7 +7,14 @@
 
 - 🔭 I’m currently working on **Facial Expression Transfer**
 ### Publications
-- Facial Expression Transfer
+[1] Muhammad Mamunur Rashid, Shihao Wu, Yongwei Nie, Guiqing Li. ”High-fidelity facial expression transfer
+   using part-based local–global conditional gans.” The Visual Computer (CGI 2023), July 2023. https://doi.org/10.1007/s00371-023-03035-1
+  
+[2] Muhammad Mamunur Rashid, Guiqing Li, Chengrui Du. ”Nonspeech7k dataset: Classification and analysis of
+   human non-speech sound.” IET Signal Processing, 17(6), e12233. https://doi.org/10.1049/sil2.12233
+
+### Nonspeech7k dataset 
+- https://zenodo.org/record/6967442
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
