@@ -15,6 +15,7 @@ Muhammad Mamunur Rashid, Shihao Wu, Yongwei Nie, Guiqing Li
 The Visual Computer (CGI 2023), July 2023
 
 ### [Paper](https://doi.org/10.1007/s00371-023-03035-1) 
+### [Coming soon]
 
 ## Abstract
 > We propose a GAN-based facial expression transfer method. It can transfer the facial expression of a reference subject to the source subject while preserving the source identity attributes, such as shape, appearance, and illumination. Our method consists of two modules based on GAN: Parts Generation Networks (PGNs), and Parts Fusion Network (PFN). Instead of training the model on the entire image globally, our key idea is to train different PGNs for different local facial parts independently and then fuse the generated parts together using PFN. To encode the facial expression faithfully, we use a pre-trained parametric 3D head model (called photometric FLAME) to reconstruct realistic head models from both source and reference images. We also extract 3D facial feature points of the reference image to handle extreme poses and occlusions. Based on the extracted contextual information, we use PGNs to generate different parts of the head independently. Finally, PFN is used to fuse all the generated parts together to form the final image. Experiments show that the proposed model outperforms state-of-the-art approaches in faithfully transferring facial expressions, especially when the reference image has a different head pose to the source image. Ablation studies demonstrate the power of using PGNs.
