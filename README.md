@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M. Mamunur Rashid</h1>
-<h3 align="center">My specialization as a computer science researcher lies in computer graphics and vision. My research interests are focused on VR, 3D animation, image synthesis, and image/video editing.</h3>
+<h3 align="center">My specialization as a computer science researcher lies in computer graphics and vision. My research interests are focused on VLLM, Image/Video editing, Image generation, 3D reconstruction, Emotion understanding.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamunctg&label=Profile%20views&color=0e75b6&style=flat" alt="mamunctg" /> </p>
 
